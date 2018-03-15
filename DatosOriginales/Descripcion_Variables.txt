@@ -1,0 +1,32 @@
+Variables
+-	ID_Customer: Identificador de cliente.
+-	Socio_Demo_01-05: Variables sociodemográficas relacionadas con el cliente.
+-	Imp_Cons_01-17: Importe de consumos habituales del cliente en base a sus operaciones con tarjetas y domiciliaciones más comunes.
+-	Imp_Sal_01-21: Importe de los saldos de los distintos productos financieros.
+-	Ind_Prod_01-24: Tenencia de los distintos productos financieros.
+-	Num_Oper_01-20: Número de operaciones a través de los distintos productos financieros.
+-	Poder_Adquisitivo: Variable objetivo, variable numérica que define el poder adquisitivo del cliente.
+
+Las siguientes variables son continuas:
+-	Desde Imp_Cons_01 hasta Imp_Cons_17.
+-	Desde Imp_Sal_01 hasta Imp_Sal_21.
+-	Desde Num_Oper_01 hasta Num_Oper_20.
+-	Socio_Demo_03 hasta Socio_Demo_05.
+-	Poder_Adquisitivo.
+
+Las siguientes variables son categóricas (nominales):
+-	Desde Ind_Prod_01 hasta Ind_Prod_24
+
+La siguiente variable son discretas:
+-	Socio_Demo_01 y Socio_Demo_02
+
+Ámbito geográfico
+-	El análisis dispone de información de clientes de todo el territorio español.
+
+Formato y estructura
+-	Ambos datasets tienen formato txt, comprimido en un zip. La estructura del mismo es la siguiente:
+
+Nombres de campo: Incluidos en la cabecera.
+Separador: Se ha usado como separador la coma ",".
+Codificación: UTF-8.
+Indicador de símbolo decimal: Como símbolo decimal se ha considerado el punto ".".
