@@ -12,6 +12,7 @@ En el presente proyecto puedes encontrar los siguientes archivos:
 * *Test_Mission.txt* Contiene el test con los resultados del último modelo.
 * *Code#SCAHaters.R* Código de construcción y evaluación del modelo.
 * *Descripcion.txt* Contiene una breve descripción del método seguido.
+* *Graphs* Contiene gráficas finales del análisis exploratorio de las variables del dataset.
 * *Resultados.pptx* Presentación de los resultados del modelo una vez testeado.
 * *Presentacion#SCAHaters.* Video presentación del análisis y modelo del equipo.
 
